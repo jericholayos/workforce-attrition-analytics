@@ -1,7 +1,8 @@
 # Workforce Attrition Analytics
 This project explores human resources data for 4,188 employees to uncover the main reasons behind workforce turnover. The analysis provides simple and direct business insights to help management improve employee retention.
 
-<img width="1472" height="806" alt="image" src="https://github.com/user-attachments/assets/c2d3c16e-17d9-4450-9959-306c72dd4626" />
+<img width="1473" height="805" alt="image" src="https://github.com/user-attachments/assets/3f7a375a-8d27-4beb-9c0a-e1ac6dfdd576" />
+
 
 
 ## Tech Stack
